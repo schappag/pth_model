@@ -1,0 +1,8 @@
+# Byte-compiled and cached files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local work not intended for publication
+personalization/
